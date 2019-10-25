@@ -1,7 +1,8 @@
 spring:
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/curd_operation
+    url: jdbc:mysql://localhost:3306/test
+    
     username: anandmohan
     password: Accenture@123
   jpa:
